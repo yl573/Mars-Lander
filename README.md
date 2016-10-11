@@ -1,2 +1,2 @@
 # Mars-Lander
-Mars Landing Simulator with Autopilot
+Autopilot for a Mars landing simulator
